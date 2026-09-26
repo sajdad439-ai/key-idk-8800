@@ -1,7 +1,7 @@
 {
-  "keys": {
-    "BLACK-111": "",
-    "BLACK-222": "",
-    "VIP-333": ""
-  }
+  "valid_keys": [
+    "BLACK-VIP-1111",
+    "BLACK-VIP-2222",
+    "BLACK-VIP-3333"
+  ]
 }
