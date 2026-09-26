@@ -1,7 +1,5 @@
-{
-  "valid_keys": [
-    "BLACK-VIP-1111",
-    "BLACK-VIP-2222",
-    "BLACK-VIP-3333"
-  ]
-}
+[
+  "BLACK-VIP-1111",
+  "BLACK-VIP-2222",
+  "BLACK-VIP-3333"
+]
